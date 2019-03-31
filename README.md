@@ -1,5 +1,15 @@
 # AutoTouch Release Notes
 
+### v5.0.6
+> 2019-04-06
+* New powerful and stable `findImage` function comletely replaces the old one. [Learn more](https://docs.autotouch.net/#findimagetargetimagepath-count-threshold-region-debug)
+
+### v5.0.5
+> 2019-04-04
+* Integrated some powerful [Lua extension libraries](https://docs.autotouch.net/#extension-libraries): `LuacURL`, `LuaSocket`, `LuaSec`, `LuaSqlite3`, `LuaFileSystem`
+* Supports adding Lua extension libraries by userself, [how?](https://docs.autotouch.net/#extension-libraries)
+* Bug fixes
+
 ### v5.0.4
 > 2019-03-30
 * New function [`openURL(urlString)`](https://docs.autotouch.net/#openurlurlstring)
