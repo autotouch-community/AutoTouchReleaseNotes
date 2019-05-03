@@ -1,5 +1,12 @@
 # AutoTouch Release Notes
 
+### v5.1.0
+> 2019-05-03
+* Compatible to A12 (iPhone Xs, Xs Max, Xr) with Chimera/Sileo
+* Bug fixes of findImage
+* Bug fixes of touching on home screen
+* Some refactoring 
+
 ### v5.0.6
 > 2019-04-06
 * New powerful and stable `findImage` function comletely replaces the old one. [Learn more](https://docs.autotouch.net/#findimagetargetimagepath-count-threshold-region-debug)
