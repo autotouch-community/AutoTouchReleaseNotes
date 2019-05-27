@@ -1,5 +1,11 @@
 # AutoTouch Release Notes
 
+### v5.1.1-1
+> 2019-05-27
+* Hold volume up button to stop all running scripts.
+* Added extension functions: setAutoLaunch, listAutoLaunch
+* Bug fixes of screenshot/getColors/findColors/findImage, dialog
+
 ### v5.1.0
 > 2019-05-03
 * Compatible to A12 (iPhone Xs, Xs Max, Xr) with Chimera/Sileo
