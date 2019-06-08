@@ -1,17 +1,28 @@
 # AutoTouch Release Notes
 
+### v5.1.2-3
+> 2019-06-13
+* New function for exiting current script execution: `exit()`.
+* New function for getting current script path: `currentPath()`.
+* Bug fix of `findImage`.
+
+### v5.1.2-1
+> 2019-06-08
+* Provides a way to fix the conflict with third party Apps like SnapChat, just turn on "Fix App Conflict" in Settings>Options.
+* Improved findImage and findImage method 2 (Look at last parameter of findImage function).
+
 ### v5.1.1-1
 > 2019-05-27
 * Hold volume up button to stop all running scripts.
-* Added extension functions: setAutoLaunch, listAutoLaunch
-* Bug fixes of screenshot/getColors/findColors/findImage, dialog
+* Added extension functions: setAutoLaunch, listAutoLaunch.
+* Bug fixes of screenshot/getColors/findColors/findImage, dialog.
 
 ### v5.1.0
 > 2019-05-03
-* Compatible to A12 (iPhone Xs, Xs Max, Xr) with Chimera/Sileo
-* Bug fixes of findImage
-* Bug fixes of touching on home screen
-* Some refactoring 
+* Compatible to A12 (iPhone Xs, Xs Max, Xr) with Chimera/Sileo.
+* Bug fixes of findImage.
+* Bug fixes of touching on home screen.
+* Some refactoring.
 
 ### v5.0.6
 > 2019-04-06
