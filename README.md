@@ -1,5 +1,9 @@
 # AutoTouch Release Notes
 
+### v5.1.2-5
+> 2019-06-14
+* Added log view, image view, txt file edit supporting to web dashboard.
+
 ### v5.1.2-3
 > 2019-06-13
 * New function for exiting current script execution: `exit()`.
