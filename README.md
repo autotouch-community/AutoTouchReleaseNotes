@@ -1,5 +1,11 @@
 # AutoTouch Release Notes
 
+### v5.1.2-7
+> 2019-06-14
+* `dialog` is improved, more buttons definition is supported, and it will return flag of the tapped button.
+* Old `dialog` has been totally redesigned, but the new `dialog` can cover the old code.
+* `dialog` has a new parameter `orientations` to control the orientatios.
+
 ### v5.1.2-5
 > 2019-06-14
 * Added log view, image view, txt file edit supporting to web dashboard.
