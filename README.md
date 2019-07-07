@@ -1,5 +1,9 @@
 # AutoTouch Release Notes
 
+### v5.1.5
+> 2019-07-07
+* `tesseract ocr` is supported, pls look a the [doc](https://docs.autotouch.net/#ocrregion-languages-threshold-whitelist-blacklist-timeout-tessdataparentdir-debug)
+
 ### v5.1.2-7
 > 2019-06-14
 * `dialog` is improved, more buttons definition is supported, and it will return flag of the tapped button.
