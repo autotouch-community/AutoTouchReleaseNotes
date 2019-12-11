@@ -1,5 +1,9 @@
 # AutoTouch Release Notes
 
+### v6.0.0
+> 2019-12-11
+* Supports iOS 13 (install from repo: https://apt.autotouch.net)
+
 ### v5.1.5
 > 2019-07-07
 * `tesseract ocr` is supported, pls look a the [doc](https://docs.autotouch.net/#ocrregion-languages-threshold-whitelist-blacklist-timeout-tessdataparentdir-debug)
