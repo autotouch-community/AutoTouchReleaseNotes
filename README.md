@@ -1,5 +1,11 @@
 # AutoTouch Release Notes
 
+### v7.0.0
+> 2020-05-15
+* Added JavaScript support
+* Added `JSBridge` support with which you're able to call `classes/methods/variables` of `Objective-C` from `JavaScript`
+* Bug fixes
+
 ### v6.0.0
 > 2019-12-11
 * Supports iOS 13 (install from repo: https://apt.autotouch.net)
