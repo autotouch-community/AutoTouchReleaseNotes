@@ -1,4 +1,9 @@
-# AutoTouch Release Notes
+AutoTouch Release Notes
+=====
+
+### v7.0.1
+> 2020-05-17
+* Bug fixes
 
 ### v7.0.0
 > 2020-05-15
