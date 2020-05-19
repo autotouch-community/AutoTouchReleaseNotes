@@ -1,6 +1,10 @@
 AutoTouch Release Notes
 =====
 
+### v7.0.2
+> 2020-05-19
+* New extended JavaScript function: `exec()` which is used to execute shell command.
+
 ### v7.0.1
 > 2020-05-17
 * Bug fixes
