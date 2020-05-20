@@ -1,6 +1,10 @@
 AutoTouch Release Notes
 =====
 
+### v7.0.3
+> 2020-05-20
+* New module `fs` provided a batch of extended functions for file/directory operations, pls look at the `test_file_operations.js` in `Examples` to learn the usage.
+
 ### v7.0.2
 > 2020-05-19
 * New extended JavaScript function: `exec()` which is used to execute shell command.
