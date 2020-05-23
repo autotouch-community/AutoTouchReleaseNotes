@@ -1,6 +1,12 @@
 AutoTouch Release Notes
 =====
 
+### v7.0.4
+> 2020-05-23
+* BREAKING CHANGE: use `use_jsbridge()` instead of `use()` in `JSBridge` to import an object.
+* Preset most popular HTTP library `axios` and JavaScript utility library `lodash` into AutoTouch.
+* Support require a module from remote url, e.g. `const lodash = require('https://cdn.jsdelivr.net/npm/lodash@4.17.15/lodash.min.js')`
+
 ### v7.0.3
 > 2020-05-20
 * New module `fs` provided a batch of extended functions for file/directory operations, pls look at the `test_file_operations.js` in `Examples` to learn the usage.
